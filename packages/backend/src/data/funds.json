@@ -1,0 +1,30 @@
+[
+  {
+    "isin": "INF204KB17I5",
+    "name": "HDFC Top 100 Fund",
+    "nav": 850.25,
+    "change": 5.75,
+    "changePercent": 0.68
+  },
+  {
+    "isin": "INF204KB14I2",
+    "name": "SBI Bluechip Fund",
+    "nav": 450.50,
+    "change": -2.30,
+    "changePercent": -0.51
+  },
+  {
+    "isin": "INF204KB15I0",
+    "name": "ICICI Prudential Bluechip Fund",
+    "nav": 350.75,
+    "change": 3.25,
+    "changePercent": 0.93
+  },
+  {
+    "isin": "INF204KB16I8",
+    "name": "Axis Bluechip Fund",
+    "nav": 550.25,
+    "change": -1.50,
+    "changePercent": -0.27
+  }
+] 

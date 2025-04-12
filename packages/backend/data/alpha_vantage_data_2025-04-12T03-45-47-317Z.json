@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-04-12T03:45:47.313Z",
+  "data": {},
+  "errors": [
+    "RELIANCE.NS",
+    "TCS.NS",
+    "HDFCBANK.NS",
+    "INFY.NS",
+    "ICICIBANK.NS",
+    "HINDUNILVR.NS",
+    "HDFC.NS",
+    "SBIN.NS",
+    "BHARTIARTL.NS",
+    "KOTAKBANK.NS",
+    "BAJFINANCE.NS",
+    "WIPRO.NS",
+    "LT.NS",
+    "ASIANPAINT.NS",
+    "MARUTI.NS",
+    "NESTLEIND.NS",
+    "TITAN.NS",
+    "SUNPHARMA.NS",
+    "AXISBANK.NS",
+    "ONGC.NS",
+    "^NSEI",
+    "^NSEBANK",
+    "^CNXIT",
+    "^CNXAUTO",
+    "^CNXPHARMA",
+    "^GSPC",
+    "^DJI",
+    "^IXIC",
+    "^FTSE",
+    "^N225"
+  ],
+  "metadata": {
+    "totalSymbols": 30,
+    "successfulFetches": 0,
+    "failedFetches": 30
+  }
+}

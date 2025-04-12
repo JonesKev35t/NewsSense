@@ -1,0 +1,38 @@
+[
+  {
+    "isin": "INE002A01018",
+    "ticker": "RELIANCE",
+    "name": "Reliance Industries Limited",
+    "lastPrice": 2850.25,
+    "change": 12.50,
+    "changePercent": 0.44,
+    "volume": 2500000
+  },
+  {
+    "isin": "INE009A01021",
+    "ticker": "TCS",
+    "name": "Tata Consultancy Services Limited",
+    "lastPrice": 3850.75,
+    "change": -25.30,
+    "changePercent": -0.65,
+    "volume": 1500000
+  },
+  {
+    "isin": "INE040A01034",
+    "ticker": "HDFCBANK",
+    "name": "HDFC Bank Limited",
+    "lastPrice": 1650.50,
+    "change": 8.75,
+    "changePercent": 0.53,
+    "volume": 3000000
+  },
+  {
+    "isin": "INE009A01021",
+    "ticker": "INFY",
+    "name": "Infosys Limited",
+    "lastPrice": 1450.25,
+    "change": -15.20,
+    "changePercent": -1.04,
+    "volume": 2000000
+  }
+] 

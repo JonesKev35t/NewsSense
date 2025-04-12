@@ -1,0 +1,92 @@
+{
+  "timestamp": "2024-04-12T03:50:00.000Z",
+  "data": {
+    "RELIANCE.NS": {
+      "symbol": "RELIANCE.NS",
+      "price": "2890.45",
+      "change": "15.75",
+      "changePercent": "0.55%",
+      "volume": "8945623",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "TCS.NS": {
+      "symbol": "TCS.NS",
+      "price": "3567.80",
+      "change": "-23.45",
+      "changePercent": "-0.65%",
+      "volume": "2345678",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "HDFCBANK.NS": {
+      "symbol": "HDFCBANK.NS",
+      "price": "1678.90",
+      "change": "8.90",
+      "changePercent": "0.53%",
+      "volume": "4567890",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "INFY.NS": {
+      "symbol": "INFY.NS",
+      "price": "1456.75",
+      "change": "-12.35",
+      "changePercent": "-0.84%",
+      "volume": "3456789",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "^NSEI": {
+      "symbol": "^NSEI",
+      "price": "22456.80",
+      "change": "145.60",
+      "changePercent": "0.65%",
+      "volume": "234567890",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "^NSEBANK": {
+      "symbol": "^NSEBANK",
+      "price": "48234.55",
+      "change": "234.75",
+      "changePercent": "0.49%",
+      "volume": "45678901",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "^CNXIT": {
+      "symbol": "^CNXIT",
+      "price": "34567.80",
+      "change": "-123.45",
+      "changePercent": "-0.36%",
+      "volume": "12345678",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "^GSPC": {
+      "symbol": "^GSPC",
+      "price": "5123.45",
+      "change": "23.45",
+      "changePercent": "0.46%",
+      "volume": "3456789012",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "^DJI": {
+      "symbol": "^DJI",
+      "price": "38234.56",
+      "change": "145.67",
+      "changePercent": "0.38%",
+      "volume": "2345678901",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    },
+    "^IXIC": {
+      "symbol": "^IXIC",
+      "price": "16234.56",
+      "change": "89.45",
+      "changePercent": "0.55%",
+      "volume": "4567890123",
+      "lastUpdated": "2024-04-12T03:50:00.000Z"
+    }
+  },
+  "metadata": {
+    "totalSymbols": 10,
+    "successfulFetches": 10,
+    "failedFetches": 0,
+    "dataSource": "mock",
+    "note": "This is mock data to be used as a fallback when the Alpha Vantage API is unavailable"
+  }
+} 
